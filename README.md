@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**fdiogo1/fdiogo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Diogo Ferreira, 20yo.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying Software Engineer at University of Brasília.
+- 📗 Also studying Analysis and Systems Development.
+- 📘 Learning C, Java and Python.
+- 📧 Contact: pessoaldiogoferreira@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stats
+##
+<div align="Center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdiogo1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdiogo1&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
