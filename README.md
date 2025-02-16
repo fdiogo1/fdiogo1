@@ -2,7 +2,7 @@
 
 #### Diogo Ferreira, 21yo.
 
-- 🔭 I’m currently studying Software Engineer at University of Brasília.
+- 🔭 I’m currently studying Software Engineering at University of Brasília.
 - 📗 Also studying Analysis and Systems Development.
 - 📘 Learning C, Java and Python.
 - 📧 Contact: pessoaldiogoferreira@gmail.com
