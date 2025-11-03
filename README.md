@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-#### Diogo Ferreira, 21yo.
+#### Diogo Ferreira, 22yo.
 
 - 🔭 I’m currently studying Software Engineering at University of Brasília.
 - 📗 Also studying Analysis and Systems Development.
