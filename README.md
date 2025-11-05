@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently studying Software Engineering at University of Brasília.
 - 📗 Also studying Analysis and Systems Development.
-- 📘 Learning C, Java and Python.
 - 📧 Contact: pessoaldiogoferreira@gmail.com
 
 
